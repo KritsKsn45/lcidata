@@ -17,7 +17,7 @@ const districtData = {
 };
 
 // โหลดข้อมูล products จากไฟล์ JSON
-fetch('data.json')
+fetch('https://raw.githubusercontent.com/KritsKsn45/lcidata/main/data.json')
   .then(response => response.json())
   .then(data => {
     products = data; // เก็บข้อมูล
