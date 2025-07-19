@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "สิงโตแดง ถุง 50 กก.",
+    "detail": "สิงโตแดง ปูนโครงสร้าง",
+    "image": "https://quinl.quinlcdn.com/productImages/UploadImagesSmall/2301/1673425496_92708.jpg",
+    "variants": [
+      { "province": "อุบลราชธานี", "district": "เมืองอุบล", "price": 120 },
+      { "province": "อุบลราชธานี", "district": "โขงเจียม", "price": 125 },
+      { "province": "อุบลราชธานี", "district": "เขมราฐ", "price": 130 },
+      { "province": "เชียงใหม่", "district": "สารภี", "price": 125 }
+      
+    ]
+  },
+  {
+    "id": 2,
+    "name": "สิงโตแดง ผง 32 ตัน",
+    "detail": "สิงโตแดง ปูนโครงสร้าง",
+    "image": "https://quinl.quinlcdn.com/productImages/UploadImagesSmall/2402/1707719226_94358.jpg",
+    "variants": [
+      { "province": "อุบลราชธานี", "district": "เมืองอุบล", "price": 12000 },
+      { "province": "อุบลราชธานี", "district": "โขงเจียม", "price": 12500 },
+      { "province": "อุบลราชธานี", "district": "เขมราฐ", "price": 13000 },
+      { "province": "เชียงใหม่", "district": "สารภี", "price": 12500 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "สิงโตซูเปอร์ ถุง 40 กก.",
+    "detail": "สิงโตซุปเปอร์ ปูนก่อ ฉาบ เท",
+    "image": "https://quinl.quinlcdn.com/productImages/UploadImagesSmall/2303/1677726701_25908.jpg",
+    "variants": [
+      { "province": "อุบลราชธานี", "district": "เมืองอุบล", "price": 130 },
+      { "province": "อุบลราชธานี", "district": "โขงเจียม", "price": 135 },
+      { "province": "อุบลราชธานี", "district": "เขมราฐ", "price": 140 },
+      { "province": "เชียงใหม่", "district": "สารภี", "price": 135 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "สิงโตพลัส ปูนฉาบ สูตรพิเศษ ถุง 40 กก.",
+    "detail": "สิงโตพลัส ปูนฉาบ สูตรพิเศษ",
+    "image": "https://quinl.quinlcdn.com/productImages/UploadImagesSmall/2303/1677727719_89921.png",
+    "variants": [
+      { "province": "อุบลราชธานี", "district": "เมืองอุบล", "price": 150 },
+      { "province": "อุบลราชธานี", "district": "โขงเจียม", "price": 155 },
+      { "province": "อุบลราชธานี", "district": "เขมราฐ", "price": 160 },
+      { "province": "เชียงใหม่", "district": "สารภี", "price": 155 }
+    ]
+  }
+]
